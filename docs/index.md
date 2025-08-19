@@ -46,5 +46,5 @@ I work on medical image analysis, machine learning, deep learning, and generativ
 ## Contact
 - Email: ellyyuejiaxin@gmail.com
 - GitHub: https://github.com/Jiaxin-Yue
-- CV: [Download CV](JIAXIN.YUE.Resumev1.pdf)
+- CV: [Download CV](docs/JIAXIN.YUE.Resumev1.pdf)
 
