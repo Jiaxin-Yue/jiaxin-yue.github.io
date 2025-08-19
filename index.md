@@ -23,8 +23,8 @@ I work on medical image analysis, machine learning, deep learning, and generativ
 ## Education
 - **Ph.D., Electrical and Computer Engineering**, USC  
   Focus: Machine learning, imaging-based modeling, AI for science
-- **/M.S. Electrical and Computer Engieering**, USC
-- **/B.E. Automation**, Northwestern Polytechinical University of Southern California
+- **M.S. Electrical and Computer Engieering**, USC
+- **B.E. Automation**, Northwestern Polytechinical University of Southern California
 
 ---
 
