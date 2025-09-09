@@ -1,3 +1,6 @@
 # _config.yml (optional theme)
 theme: minima
-title: "Jiaxin Yue'Page"
+title: "Jiaxin Yue"
+description: "Ph.D. candidate in Electrical and Computer Engineering at USC"
+author:
+  name: "Jiaxin Yue"
