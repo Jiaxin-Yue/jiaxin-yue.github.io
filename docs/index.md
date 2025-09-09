@@ -1,5 +1,11 @@
+---
+layout: page
+title: ""         
+permalink: /
+---
+
 ## About
-I am a Ph.D. candidate in Electrical and Computer Enigneering at University of Southern California (USC). 
+I am a Ph.D. candidate in Electrical and Computer Engineering at University of Southern California (USC). 
 <br>
 I work on developing and applying machine learning methods and computational algorithms for medical images.
 
