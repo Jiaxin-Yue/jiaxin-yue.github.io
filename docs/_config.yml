@@ -1,6 +1,7 @@
-# _config.yml (optional theme)
 theme: minima
-title: "Jiaxin Yue"
-description: "Ph.D. candidate in Electrical and Computer Engineering at USC"
-author:
-  name: "Jiaxin Yue"
+title: "Jiaxin Yue’s Page"
+description: "Ph.D. candidate, ECE @ USC"
+# Remove or control header links:
+# header_pages:
+#   - publications.md
+#   - contact.md
