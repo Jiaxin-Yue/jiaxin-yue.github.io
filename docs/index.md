@@ -1,8 +1,5 @@
-# Jiaxin Yue
 
-Ph.D. candidate in Electrical and Computer Enigneering at University of Southern California (USC). 
 
----
 
 ## Contents
 - [About](#about)
