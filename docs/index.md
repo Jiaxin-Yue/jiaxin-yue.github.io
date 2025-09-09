@@ -1,4 +1,3 @@
-## Jiaxin Yue
 
 ## Contents
 - [About](#about)
