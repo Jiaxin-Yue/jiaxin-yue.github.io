@@ -1,3 +1,9 @@
+## About
+I am a Ph.D. candidate in Electrical and Computer Enigneering at University of Southern California (USC). 
+<br>
+I work on developing and applying machine learning methods and computational algorithms for medical images.
+
+---
 
 ## Contents
 - [About](#about)
@@ -5,13 +11,6 @@
 - [Research Experience](#research-experience)
 - [Publications](#publications)
 - [Contact](#contact)
-
----
-
-## About
-I am a Ph.D. candidate in Electrical and Computer Enigneering at University of Southern California (USC). 
-<br>
-I work on developing and applying machine learning methods and computational algorithms for medical images.
 
 ---
 
