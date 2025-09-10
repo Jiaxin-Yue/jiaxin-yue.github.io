@@ -4,8 +4,11 @@ title: ""
 permalink: /
 ---
 
-<img src="/assets/img/headshots.jpg" alt="Jiaxin Yue headshot" width="140"
+<img src="{{ '/assets/img/headshot.jpg' | relative_url }}"
+     alt="Jiaxin Yue headshot"
+     width="140"
      style="float:right;border-radius:50%;object-fit:cover;margin:0 0 1rem 1rem;">
+
      
 ## About
 I am a Ph.D. candidate in Electrical and Computer Engineering at University of Southern California (USC). 
