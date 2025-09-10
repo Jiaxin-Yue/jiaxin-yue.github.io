@@ -1,6 +1,8 @@
 theme: minima
 title: "Jiaxin Yue"
 description: "Ph.D. candidate, ECE @ USC"
+url: "https://jiaxin-yue.github.io"
+baseurl: ""
 # Remove or control header links:
 # header_pages:
 #   - publications.md
