@@ -34,7 +34,7 @@ I work on developing and applying machine learning methods and computational alg
 - **M.S. Electrical and Computer Engineering**, USC
   <br>
   Los Angeles, CA, US
-- **B.E. Automation**, Northwestern Polytechinical University
+- **B.E. Automation**, Northwestern Polytechnical University
   <br>
   Xi'an, Shaanxi, China
 
