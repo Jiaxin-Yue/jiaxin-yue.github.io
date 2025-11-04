@@ -80,6 +80,6 @@ I work on developing and applying machine learning methods and computational alg
 ## Contact
 - Email: [ellyyuejiaxin@gmail.com](mailto:ellyyuejiaxin@gmail.com)  
 - GitHub: [Jiaxin-Yue](https://github.com/Jiaxin-Yue)  
-- CV: [Download CV](JIAXIN.YUE.Resumev1.pdf)  
-
+- CV: [Download CV](JIAXIN.YUE.Resumev1.pdf)
+- LinkedIn: [linkedin.com/in/jiaxin-yue] (https://www.linkedin.com/in/jiaxin-yue)
 
